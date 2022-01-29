@@ -1,7 +1,6 @@
 # Flutter-Cinder
 Flutter application
 1.instalirajte aplikaciju
-
 2.  sign up ili log in sa ovim nalogom{
 Email: test@gmail.com
 Password: test12
