@@ -19,7 +19,11 @@ password: test12
 
 
 
-cinder v3:
--dodata email verfikacija
--dodata forgot password funkcija
--dodata mogucnost unlinkanja
+cinder v3:<br/>
+-dodata email verfikacija<br/>
+-dodata forgot password funkcija<br/>
+-dodata mogucnost unlinkanja<br/>
+
+cinder v4:<br/>
+-dodati indikatori lajkovanja<br/>
+-ispravljen overflow glitch<br/>
