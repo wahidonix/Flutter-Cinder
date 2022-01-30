@@ -27,3 +27,6 @@ cinder v3:<br/>
 cinder v4:<br/>
 -dodati indikatori lajkovanja<br/>
 -ispravljen overflow glitch<br/>
+cinder v5:<br/>
+-dodat cinder logo<br/>
+-ispravljen bug prilikom unlinkanja<br/>
