@@ -16,3 +16,10 @@ password: test12
 6. ako zelite mozete da linkujete rucno kopiranjem text fielda partner code i paste-anjem u drugi account
 7. nakon toga lajkute swipe-anjem nadesno i dislikeujte swipe-anjem ulevo.
 8. Ako postoje itemi koji su lajkovani na oba naloga oni ce se pojaviti u favorites kome se pristupa dugmetom favorites u navbaru
+
+
+
+cinder v3:
+-dodata email verfikacija
+-dodata forgot password funkcija
+-dodata mogucnost unlinkanja
